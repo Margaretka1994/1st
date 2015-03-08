@@ -1,17 +1,16 @@
 <html>
 <head>
-  <title>Page Title</title>
+  <title>My first code</title>
 </head>
 
 <body>
-  <h1> <b>Margareta<b/> Chlubnová</h1>
-  <p>University College London</p>
-</body>
-
-</html>
+  <h5>align="right">Margareta<b/> Chlubnova</h5>
+  <p><b>University College<b/></p>London <p>
+</body bgcolor="black" text="white">
  <p>Can you please teach me how to code</p>
  <p>This is my first time doing it</p>
  
-   <h1>My CV</h1>
+   <h2>My CV</h2>
 
 <title>London<title/>
+<html/>
